@@ -74,6 +74,7 @@
 /* file creation modes */
 #define FM_REGULAR              0x00
 #define FM_SYMLINK              0x40
+#define FM_SPECIAL              0x4F
 
 /* return values */
 #define FFS_SUCCESS             0
